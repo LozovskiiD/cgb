@@ -1,0 +1,1 @@
+USE d:\kadrynew\datset.dbf SHAREDBROWSE LASTSELECTSELECT datjobUSE d:\kadrynew\datset.dbf SHAREDBROWSEUSE d:\kadrynew\datsupl.dbf SHAREDBROWSE
